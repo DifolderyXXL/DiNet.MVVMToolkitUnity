@@ -1,4 +1,6 @@
 
+Uses reactive properties from https://github.com/Cysharp/R3, see how to download it.
+
 Supports:
 - INotifyPropertyChanged
 - Cysharp.R3.Observable( ReactiveProperty, Subject )
